@@ -24,7 +24,8 @@ var opening = {
   h5: ['heading'],
   h6: ['heading'],
   a: ['link'],
-  code: ['code_inline', 'code_block', 'fence']
+  code: ['code_inline', 'code_block', 'fence'],
+  span: ['span']
 }
 
 var selfClosing = {
